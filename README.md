@@ -1,6 +1,6 @@
 **Project Overview**  
 
-This repository contains the UI/UX design presentation and responsive layout specifications for a business card website (сайт-візитівка) dedicated to the "Askania-Nova" Biosphere Reserve (named after F.E. Falz-Fein).  
+This repository contains the UI/UX design presentation and responsive layout specifications for a business card website dedicated to the "Askania-Nova" Biosphere Reserve (named after F.E. Falz-Fein).  
 As one of the Seven Natural Wonders of Ukraine, the goal of this project is to rebrand, raise awareness, and engage users to help prepare for future educational visits and travel to the reserve following its complete de-occupation.  
 The presentation deck documents the complete design lifecycle - from research goals and moodboards to typography scale, component interactions, and responsive multi-device layouts
 
